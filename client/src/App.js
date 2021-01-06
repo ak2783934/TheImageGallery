@@ -108,7 +108,6 @@ class App extends React.Component {
   };
 
   render() {
-    // console.log("State is :", this.state);
     return (
       <div className="app mx-4 center">
         <h1 className="text-center"> Upload and say!</h1>
