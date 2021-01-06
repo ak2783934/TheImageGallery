@@ -30,7 +30,6 @@
     "morgan": "^1.10.0",
     "multer": "^1.4.2",
     "multer-storage-cloudinary": "^4.0.0",
-    "nodemon": "^2.0.6",
-    "react-tsparticles": "^1.18.11"
+    "nodemon": "^2.0.6"
   }
 }
